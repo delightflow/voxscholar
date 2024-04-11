@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "microphone-stream": "^6.0.1"
+  }
+}
